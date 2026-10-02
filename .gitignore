@@ -1,0 +1,6 @@
+venv/ 
+pycache/ 
+*.рус
+data/ 
+models/ 
+.ipynb_checkpoints/ 
